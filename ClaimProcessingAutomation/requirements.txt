@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pytesseract
+langchain
+openai
+stripe
+python-multipart
+pydantic
+pdf2image
+Pillow
